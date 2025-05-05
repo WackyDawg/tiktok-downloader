@@ -128,14 +128,14 @@ const ContactPage: React.FC = () => {
                     <div className="w-10 h-10 rounded-full bg-[#00F2EA]/20 flex items-center justify-center flex-shrink-0">
                       <MapPin size={20} className="text-[#00F2EA]" />
                     </div>
-                    <div>
+                    {/* <div>
                       <h3 className="text-lg font-medium text-white mb-1">Office</h3>
                       <p className="text-gray-400">
                         420 Tech Street<br />
                         San Francisco, CA 94103<br />
                         United States
                       </p>
-                    </div>
+                    </div> */}
                   </div>
                 </motion.div>
                 

@@ -18,7 +18,7 @@ const SEO: React.FC<SEOProps> = ({
   ogType = 'website',
   ogImage = '/og-image.jpg', // Default OG image
 }) => {
-  const siteUrl = 'https://tikdown.com'; // Replace with your actual site URL
+  const siteUrl = 'https://ttgrab.onrender.com'; // Replace with your actual site URL
   const fullUrl = canonicalUrl ? `${siteUrl}${canonicalUrl}` : siteUrl;
   
   return (
